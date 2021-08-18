@@ -1,0 +1,9 @@
+.header {
+    width: 100%;
+    background-color: black;
+    opacity: 60%;
+    margin : 0 auto;
+    padding: 15px 0 15px 0;
+    font-size: 20px;
+    color: rgb(212, 180, 34);
+}
